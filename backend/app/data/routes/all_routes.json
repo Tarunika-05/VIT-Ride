@@ -1,0 +1,3430 @@
+{
+  "routes": [
+    {
+      "route_number": "1",
+      "route_name": "PADI SARAVANA",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "Rajesh Kumar",
+      "driver_phone": "+91-9840110000",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444020000",
+      "stops": [
+        {
+          "name": "PADI SARAVANA STORES",
+          "latitude": 13.10101,
+          "longitude": 80.190161,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "KORATTUR CHRUCH",
+          "latitude": 13.10818,
+          "longitude": 80.183417,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "MANIKANDAPURAM BUS STAND",
+          "latitude": 13.128681,
+          "longitude": 80.136927,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "THIRUMULLAIVOYAL BUS STAND",
+          "latitude": 13.13074,
+          "longitude": 80.131439,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "VAISNAVINAGAR",
+          "latitude": 13.127539,
+          "longitude": 80.12576,
+          "timing": "6:40 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "1A",
+      "route_name": "THIRUMANGALAM",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "Suresh Babu",
+      "driver_phone": "+91-9840110123",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444020321",
+      "stops": [
+        {
+          "name": "THIRUMANGALAM",
+          "latitude": 13.083528,
+          "longitude": 80.194481,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "GOLDEN FLATS",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:40 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "2",
+      "route_name": "CMBT",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "M. Palani",
+      "driver_phone": "+91-9840110246",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444020642",
+      "stops": [
+        {
+          "name": "CMBT",
+          "latitude": 13.06744,
+          "longitude": 80.205489,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "MMDA",
+          "latitude": 13.168441,
+          "longitude": 80.245026,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "VADAPALANI",
+          "latitude": 13.049971,
+          "longitude": 80.212131,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "AYANAVARAM",
+          "latitude": 13.097558,
+          "longitude": 80.241853,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "ESI HOSPITAL",
+          "latitude": 13.094133,
+          "longitude": 80.241134,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "KILPAUK GARDEN",
+          "latitude": 13.082343,
+          "longitude": 80.233699,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "ANNA NAGAR CHINTHAMANI",
+          "latitude": 13.085094,
+          "longitude": 80.224244,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "SHANTHI  COLANY",
+          "latitude": 13.084926,
+          "longitude": 80.213364,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:40 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "3",
+      "route_name": "SENTHIL NAGAR",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "K. Murugan",
+      "driver_phone": "+91-9840110369",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444020963",
+      "stops": [
+        {
+          "name": "SENTHIL NAGAR",
+          "latitude": 13.12159,
+          "longitude": 80.202521,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "ANNA NAGAR WEST DEPOT",
+          "latitude": 13.094003,
+          "longitude": 80.198826,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "WAVIN",
+          "latitude": 13.088427,
+          "longitude": 80.171983,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "5",
+      "route_name": "MOOLAKADAI",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "V. Arumugam",
+      "driver_phone": "+91-9840110492",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444021284",
+      "stops": [
+        {
+          "name": "MOOLAKADAI",
+          "latitude": 13.129568,
+          "longitude": 80.24163,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "KANGACHATHIRAM",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:28 AM"
+        },
+        {
+          "name": "MADHAVARAM ROUDTANA",
+          "latitude": 13.144656,
+          "longitude": 80.219454,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "DECLATHON",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "15B",
+      "route_name": "PARRYS",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "D. Selvan",
+      "driver_phone": "+91-9840110615",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444021605",
+      "stops": [
+        {
+          "name": "PARRYS CORNER",
+          "latitude": 13.089576,
+          "longitude": 80.288228,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "SECRETARIAT",
+          "latitude": 13.079306,
+          "longitude": 80.288283,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "KANNAGI STATUE",
+          "latitude": 13.057541,
+          "longitude": 80.282171,
+          "timing": "6:23 AM"
+        },
+        {
+          "name": "ALL INDIA RADIO",
+          "latitude": 13.129373,
+          "longitude": 80.124252,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "MRC NAGAR",
+          "latitude": 13.018141,
+          "longitude": 80.272552,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "SRP TOOLS",
+          "latitude": 12.978581,
+          "longitude": 80.252595,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "KANDANCHAVADI",
+          "latitude": 12.965162,
+          "longitude": 80.247471,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "OMR",
+          "latitude": 12.849782,
+          "longitude": 80.230659,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "19",
+      "route_name": "KK NAGAR",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "G. Mohan",
+      "driver_phone": "+91-9840110738",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444021926",
+      "stops": [
+        {
+          "name": "KK NAGAR DEPOT",
+          "latitude": 13.041001,
+          "longitude": 80.199392,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "SIVANPARK",
+          "latitude": 13.041775,
+          "longitude": 80.204949,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "VALASARAVAKKAM",
+          "latitude": 13.040273,
+          "longitude": 80.172291,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "20",
+      "route_name": "MANDAVELI",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "R. Venkatesh",
+      "driver_phone": "+91-9840110861",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444022247",
+      "stops": [
+        {
+          "name": "MANDAVELI",
+          "latitude": 13.027912,
+          "longitude": 80.260514,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "KALIYAPPA HOSPITAL",
+          "latitude": 13.027052,
+          "longitude": 80.255847,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "MOOPANAR BRIDGE",
+          "latitude": 13.025979,
+          "longitude": 80.243784,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "DEVAR STATUE",
+          "latitude": 13.1166,
+          "longitude": 80.254245,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "23",
+      "route_name": "NATHAMUNI",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "T. Saravanan",
+      "driver_phone": "+91-9840110984",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444022568",
+      "stops": [
+        {
+          "name": "NATHAMUNI",
+          "latitude": 13.043201,
+          "longitude": 80.234259,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "ICF",
+          "latitude": 13.097827,
+          "longitude": 80.207358,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "K4 POLICE STATION",
+          "latitude": 13.092634,
+          "longitude": 80.217931,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "18TH MAIN ROAD",
+          "latitude": 13.094759,
+          "longitude": 80.203349,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "AAVIN BOTH",
+          "latitude": 13.084155,
+          "longitude": 80.16888,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "24",
+      "route_name": "MADIPAKKAM",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "S. Mani",
+      "driver_phone": "+91-9840111107",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444022889",
+      "stops": [
+        {
+          "name": "RAM NAGAR",
+          "latitude": 12.969826,
+          "longitude": 80.210836,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "POONNIAMMAN KOIL",
+          "latitude": 12.968212,
+          "longitude": 80.196238,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "UTI BANK",
+          "latitude": 12.966011,
+          "longitude": 80.188698,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "31",
+      "route_name": "AYANAVARAM",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "P. Senthil",
+      "driver_phone": "+91-9840111230",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444023210",
+      "stops": [
+        {
+          "name": "AYANAVARAM",
+          "latitude": 13.098634,
+          "longitude": 80.233694,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "ESI HOSPITAL",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:18 AM"
+        },
+        {
+          "name": "MEDAVAKKAM TANK ROAD",
+          "latitude": 13.091567,
+          "longitude": 80.240961,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "SECRETARIAT COLONY",
+          "latitude": 13.089287,
+          "longitude": 80.242935,
+          "timing": "6:23 AM"
+        },
+        {
+          "name": "KELLYS",
+          "latitude": 13.085769,
+          "longitude": 80.244352,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "MUMMY DADY BUS STAND",
+          "latitude": 13.029154,
+          "longitude": 80.266578,
+          "timing": "6:28 AM"
+        },
+        {
+          "name": "KILPAUK GARDEN",
+          "latitude": 13.082811,
+          "longitude": 80.233772,
+          "timing": "6:32 AM"
+        },
+        {
+          "name": "ANNA NAGAR CHINTHAMANI",
+          "latitude": 13.084711,
+          "longitude": 80.224561,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "PORUR TOLLGAGE",
+          "latitude": 13.04346,
+          "longitude": 80.14941,
+          "timing": "7:00 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "40",
+      "route_name": "NATRAJA THEATERE",
+      "time_slot": "morning",
+      "bus_type": "AC",
+      "driver_name": "A. Ravi",
+      "driver_phone": "+91-9840111353",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444023531",
+      "stops": [
+        {
+          "name": "NATRAJA THEATERE",
+          "latitude": 13.092898,
+          "longitude": 80.268774,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "CHENNAI CORPORATION (RIPON BUILDING)",
+          "latitude": 13.081834,
+          "longitude": 80.271588,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "PANTHEON ROAD ( EGMORE RAMADA HOTEL )",
+          "latitude": 13.076759,
+          "longitude": 80.265051,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "DAILY THANTHI",
+          "latitude": 13.080314,
+          "longitude": 80.262476,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "AMINJIKARAI",
+          "latitude": 13.069791,
+          "longitude": 80.224514,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "22",
+      "route_name": "THIRUMULLAIVAYAL",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Prakash",
+      "driver_phone": "+91-9840111476",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444023852",
+      "stops": [
+        {
+          "name": "THIRUMULLAIVAYAL",
+          "latitude": 13.13074,
+          "longitude": 80.131439,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "AVADI ROUNDTANA(DEPO)",
+          "latitude": 13.106745,
+          "longitude": 80.096951,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "AVADI CHECKPOST",
+          "latitude": 13.119296,
+          "longitude": 80.094227,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "HINDU COLLEGE",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "NEMILICHERY",
+          "latitude": 12.94858,
+          "longitude": 80.16379,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "22A",
+      "route_name": "KOLATHUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "N. Chandran",
+      "driver_phone": "+91-9840111599",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444024173",
+      "stops": [
+        {
+          "name": "KOLATHUR JUNCTION NEAR VINAYGAR TEMPLE",
+          "latitude": 13.123958,
+          "longitude": 80.212133,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "KOLATHUR PERTOL BUNK",
+          "latitude": 13.123958,
+          "longitude": 80.212133,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "WELDING SHOP",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "NERKUNDRAM",
+          "latitude": 13.067839,
+          "longitude": 80.185918,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "20A",
+      "route_name": "POWER HOUSE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Elumalai",
+      "driver_phone": "+91-9840111722",
+      "incharge_name": "Prof. H. Naveen",
+      "incharge_phone": "+91-9444024494",
+      "stops": [
+        {
+          "name": "POWER HOUSE",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "SAMIYAR MADAM",
+          "latitude": 13.045721,
+          "longitude": 80.220629,
+          "timing": "6:40 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "11A",
+      "route_name": "AVICHI SCHOOL",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Sekar",
+      "driver_phone": "+91-9840111845",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444024815",
+      "stops": [
+        {
+          "name": "AVICHI SCHOOL",
+          "latitude": 13.048609,
+          "longitude": 80.197694,
+          "timing": "6:35 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "13A",
+      "route_name": "STERLING ROAD",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "J. Jayakumar",
+      "driver_phone": "+91-9840111968",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444025136",
+      "stops": [
+        {
+          "name": "NELSON MANICKAM ROAD",
+          "latitude": 13.068422,
+          "longitude": 80.226291,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "POTHYS(T.NAGAR)",
+          "latitude": 13.041759,
+          "longitude": 80.234076,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "WEST MAMBALAM",
+          "latitude": 13.038288,
+          "longitude": 80.22095,
+          "timing": "6:25 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "8A",
+      "route_name": "AMBATTUR ORAGADAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Dhanapal",
+      "driver_phone": "+91-9840112091",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444025457",
+      "stops": [
+        {
+          "name": "AMBATTUR ORAGADAM",
+          "latitude": 13.129026,
+          "longitude": 80.154802,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "HI STYLE",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "AMBATTUR INDUSTRIAL ESTATE BUS STAND",
+          "latitude": 13.089192,
+          "longitude": 80.161305,
+          "timing": "6:30 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "27A",
+      "route_name": "GUINDY",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "C. Balaji",
+      "driver_phone": "+91-9840112214",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444025778",
+      "stops": [
+        {
+          "name": "GUINDY RACE COURSE",
+          "latitude": 13.008628,
+          "longitude": 80.214716,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "NGO COLONY",
+          "latitude": 12.995401,
+          "longitude": 80.207381,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "41",
+      "route_name": "BALAJI DENTAL COLLEGE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "E. Ramesh",
+      "driver_phone": "+91-9840112337",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444026099",
+      "stops": [
+        {
+          "name": "BALAJI DENTAL COLLEGE",
+          "latitude": 12.94433,
+          "longitude": 80.208058,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "JEYACHANDRAN",
+          "latitude": 12.92133,
+          "longitude": 80.197571,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "KALISWARY OIL MILL",
+          "latitude": 12.903013,
+          "longitude": 80.182035,
+          "timing": "7:15 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "16A",
+      "route_name": "TRIPLICANE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Rajesh Kumar",
+      "driver_phone": "+91-9840112460",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444026420",
+      "stops": [
+        {
+          "name": "TRIPLICANE",
+          "latitude": 13.058765,
+          "longitude": 80.27563,
+          "timing": "6:00 AM"
+        },
+        {
+          "name": "ROYAPETTAH",
+          "latitude": 13.053959,
+          "longitude": 80.264071,
+          "timing": "6:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "18B",
+      "route_name": "VELACHERY",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Suresh Babu",
+      "driver_phone": "+91-9840112583",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444026741",
+      "stops": [
+        {
+          "name": "VIJAYNAGAR",
+          "latitude": 13.164711,
+          "longitude": 80.239765,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "VELACHERY BUS STAND",
+          "latitude": 12.97598,
+          "longitude": 80.221025,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "MEDAVAKKAM MAMBAKKAM JUNCTION",
+          "latitude": 12.917014,
+          "longitude": 80.192605,
+          "timing": "7:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "34",
+      "route_name": "SANTHOME",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Palani",
+      "driver_phone": "+91-9840112706",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444027062",
+      "stops": [
+        {
+          "name": "SANTHOME",
+          "latitude": 13.031902,
+          "longitude": 80.278823,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "SATHYA STUDIOS",
+          "latitude": 13.016409,
+          "longitude": 80.259643,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "THIRUVANMIYUR",
+          "latitude": 12.983027,
+          "longitude": 80.2594,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "KOTTIVAKKAM",
+          "latitude": 12.968213,
+          "longitude": 80.259943,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PALAVAKKAM",
+          "latitude": 12.961656,
+          "longitude": 80.256219,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "NEELANKARAI",
+          "latitude": 12.949213,
+          "longitude": 80.254683,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "AKKARI",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "MGM",
+          "latitude": 12.825931,
+          "longitude": 80.244202,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "MUTTUKADU",
+          "latitude": 12.827023,
+          "longitude": 80.240321,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "25",
+      "route_name": "BEASANT NAGAR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Murugan",
+      "driver_phone": "+91-9840112829",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444027383",
+      "stops": [
+        {
+          "name": "BESANT NAGAR BUS STAND",
+          "latitude": 13.000341,
+          "longitude": 80.26594,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "JAYANTHI THEATRE",
+          "latitude": 12.98895,
+          "longitude": 80.256066,
+          "timing": "6:43 AM"
+        },
+        {
+          "name": "NEELANGARAI",
+          "latitude": 12.949213,
+          "longitude": 80.254683,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "VANNANTHURAI BUS STAND",
+          "latitude": 12.997976,
+          "longitude": 80.262839,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "VETTUVANKENI CHRUCH",
+          "latitude": 12.937137,
+          "longitude": 80.256526,
+          "timing": "7:15 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "25A",
+      "route_name": "VGP",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "V. Arumugam",
+      "driver_phone": "+91-9840112952",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444027704",
+      "stops": [
+        {
+          "name": "VGP",
+          "latitude": 12.914221,
+          "longitude": 80.250524,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "PERUMBAKKAM",
+          "latitude": 12.892316,
+          "longitude": 80.188892,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "MEDAVAKKAM",
+          "latitude": 12.920009,
+          "longitude": 80.19199,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "MAMBAKKAM JUNCTION",
+          "latitude": 12.900009,
+          "longitude": 80.1832,
+          "timing": "7:40 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "17A",
+      "route_name": "TANSI NAGAR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "D. Selvan",
+      "driver_phone": "+91-9840113075",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444028025",
+      "stops": [
+        {
+          "name": "TANSI NAGAR",
+          "latitude": 12.977948,
+          "longitude": 80.223561,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "VELACHERY",
+          "latitude": 12.975461,
+          "longitude": 80.220705,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "12A",
+      "route_name": "SKYWALK",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "G. Mohan",
+      "driver_phone": "+91-9840113198",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444028346",
+      "stops": [
+        {
+          "name": "SKYWALK",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "ARUMBAKKAM",
+          "latitude": 13.072423,
+          "longitude": 80.210177,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "ROHINI THEATRE",
+          "latitude": 13.074978,
+          "longitude": 80.19551,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "NERKUNDRAM",
+          "latitude": 13.067839,
+          "longitude": 80.185918,
+          "timing": "7:00 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "35",
+      "route_name": "SRP TOOLS",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Venkatesh",
+      "driver_phone": "+91-9840113321",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444028667",
+      "stops": [
+        {
+          "name": "SRP TOOLS",
+          "latitude": 12.978581,
+          "longitude": 80.252595,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "SHOLINGANALLUR JUNCTION",
+          "latitude": 12.900988,
+          "longitude": 80.22793,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "MERINA MALL",
+          "latitude": 12.836062,
+          "longitude": 80.229517,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "KARAPAKKAM",
+          "latitude": 12.919052,
+          "longitude": 80.230034,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "CHETTINAD",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "7:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "13B",
+      "route_name": "MUDICHUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "T. Saravanan",
+      "driver_phone": "+91-9840113444",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444028988",
+      "stops": [
+        {
+          "name": "MUDICHUR (ATTA COMPANY)",
+          "latitude": 12.91499,
+          "longitude": 80.072017,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "TAMBARAM HENKALA",
+          "latitude": 12.928467,
+          "longitude": 80.118634,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "TAMBARAM RLY STATION",
+          "latitude": 12.925664,
+          "longitude": 80.117431,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "PEERKANKARANAI",
+          "latitude": 12.909278,
+          "longitude": 80.102376,
+          "timing": "7:07 AM"
+        },
+        {
+          "name": "PERUNGALATHUR",
+          "latitude": 12.90487,
+          "longitude": 80.084562,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "NEDUKUNDRAM TVS",
+          "latitude": 12.878111,
+          "longitude": 80.105168,
+          "timing": "7:30 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "15A",
+      "route_name": "SHOLINGANALLUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Mani",
+      "driver_phone": "+91-9840113567",
+      "incharge_name": "Prof. H. Naveen",
+      "incharge_phone": "+91-9444029309",
+      "stops": [
+        {
+          "name": "SHOLINGANALLUR",
+          "latitude": 12.900988,
+          "longitude": 80.22793,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "SEMMANCHERI",
+          "latitude": 12.860143,
+          "longitude": 80.227225,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "PADUR HINDUSTAN COLLEGE",
+          "latitude": 12.801299,
+          "longitude": 80.223727,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "KUMARAN NAGAR",
+          "latitude": 13.126783,
+          "longitude": 80.20051,
+          "timing": "7:25 AM"
+        },
+        {
+          "name": "KELAMBAKKAM JUNCTION",
+          "latitude": 12.786151,
+          "longitude": 80.220218,
+          "timing": "7:30 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "24A",
+      "route_name": "MADIPAKKAM(KEELKATALAI)",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "P. Senthil",
+      "driver_phone": "+91-9840113690",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444029630",
+      "stops": [
+        {
+          "name": "KEELKATTALAI",
+          "latitude": 12.955607,
+          "longitude": 80.186868,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "KOVILAMBAKKAM",
+          "latitude": 12.940865,
+          "longitude": 80.18506,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "VELLAKAL",
+          "latitude": 12.931632,
+          "longitude": 80.181055,
+          "timing": "7:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "36",
+      "route_name": "SITHALAPAKKAM (RAJAKILPAKKAM)",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "A. Ravi",
+      "driver_phone": "+91-9840113813",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444029951",
+      "stops": [
+        {
+          "name": "RAJAKILPAKKAM",
+          "latitude": 12.917725,
+          "longitude": 80.155657,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "SANTOSHPURAM",
+          "latitude": 12.915869,
+          "longitude": 80.173383,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "MAMBAKKAM JUNCTION",
+          "latitude": 12.900009,
+          "longitude": 80.1832,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "SITHALAPAKKAM",
+          "latitude": 12.882,
+          "longitude": 80.192453,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "SBIOA",
+          "latitude": 13.074281,
+          "longitude": 80.253519,
+          "timing": "7:35 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "37",
+      "route_name": "SANTHOSAPURAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Prakash",
+      "driver_phone": "+91-9840113936",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444030272",
+      "stops": [
+        {
+          "name": "SANTHOSAPURAM",
+          "latitude": 12.915869,
+          "longitude": 80.173383,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "SEMBAKKAM",
+          "latitude": 12.923449,
+          "longitude": 80.158769,
+          "timing": "7:13 AM"
+        },
+        {
+          "name": "KAMARAJAPURAM",
+          "latitude": 12.924929,
+          "longitude": 80.158907,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "MADAMBAKKAM JUNCTION",
+          "latitude": 12.917289,
+          "longitude": 80.193486,
+          "timing": "7:35 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "5A",
+      "route_name": "THIRUVALLUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "N. Chandran",
+      "driver_phone": "+91-9840114059",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444030593",
+      "stops": [
+        {
+          "name": "THIRUVALLUR BUS STAND",
+          "latitude": 13.040965,
+          "longitude": 80.268258,
+          "timing": "6:00 AM"
+        },
+        {
+          "name": "PUTTLUR",
+          "latitude": 13.127184,
+          "longitude": 79.937442,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "SEVAPATET",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "VEPPAMPATTU RLY.",
+          "latitude": 13.129108,
+          "longitude": 80.007642,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "THIRUNINDRAVUR",
+          "latitude": 13.118107,
+          "longitude": 80.033613,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "JAYA SCHOOL BUS STOP",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "14B",
+      "route_name": "THIRUVANMIYUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Elumalai",
+      "driver_phone": "+91-9840114182",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444030914",
+      "stops": [
+        {
+          "name": "THIRUVANMIYUR",
+          "latitude": 12.983027,
+          "longitude": 80.2594,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "KOTTIVAKKAM",
+          "latitude": 12.968213,
+          "longitude": 80.259943,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "PALAVAKKAM",
+          "latitude": 12.961656,
+          "longitude": 80.256219,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "NEELANKARAI",
+          "latitude": 12.949213,
+          "longitude": 80.254683,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "AKKARI",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "MGM",
+          "latitude": 12.825931,
+          "longitude": 80.244202,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "MUTTUKADU",
+          "latitude": 12.827023,
+          "longitude": 80.240321,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "KOVALAM",
+          "latitude": 12.787002,
+          "longitude": 80.250445,
+          "timing": "7:20 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "26A",
+      "route_name": "VIJAYANAGAR JUNCTION",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Sekar",
+      "driver_phone": "+91-9840114305",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444031235",
+      "stops": [
+        {
+          "name": "VIJAYANAGAR JUNCTION",
+          "latitude": 12.967551,
+          "longitude": 80.217663,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "VELACHERY CHENNAI SILKS",
+          "latitude": 12.970038,
+          "longitude": 80.219054,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "KEELKATTALAI",
+          "latitude": 12.955607,
+          "longitude": 80.186868,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "25B",
+      "route_name": "KAIVELI",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "J. Jayakumar",
+      "driver_phone": "+91-9840114428",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444031556",
+      "stops": [
+        {
+          "name": "KAIVELI JUNCTION",
+          "latitude": 12.963613,
+          "longitude": 80.215748,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "BALAJI DENTAL COLLEGE",
+          "latitude": 12.94433,
+          "longitude": 80.208058,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "CHITALAPAKKAM",
+          "latitude": 12.936955,
+          "longitude": 80.138947,
+          "timing": "7:25 AM"
+        },
+        {
+          "name": "CHITALAPAKKAM KOOT ROAD",
+          "latitude": 12.897573,
+          "longitude": 80.181907,
+          "timing": "7:27 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "47",
+      "route_name": "COLLECTOR NAGAR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Dhanapal",
+      "driver_phone": "+91-9840114551",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444031877",
+      "stops": [
+        {
+          "name": "COLLECTOR NAGAR",
+          "latitude": 13.086533,
+          "longitude": 80.18925,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "GOLDEN FLATS",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "PORUR TOLL",
+          "latitude": 13.043505,
+          "longitude": 80.149617,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "48",
+      "route_name": "RETTERI",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "C. Balaji",
+      "driver_phone": "+91-9840114674",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444032198",
+      "stops": [
+        {
+          "name": "RETTERI",
+          "latitude": 13.143994,
+          "longitude": 80.211216,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "AMBEDKAR NAGAR",
+          "latitude": 12.971234,
+          "longitude": 80.236314,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "TS KRISHNA NAGAR",
+          "latitude": 13.086689,
+          "longitude": 80.184019,
+          "timing": "6:30 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "10A",
+      "route_name": "NANGANALLUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "E. Ramesh",
+      "driver_phone": "+91-9840114797",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444032519",
+      "stops": [
+        {
+          "name": "NANGANALLUR J.K MAHAL",
+          "latitude": 12.976139,
+          "longitude": 80.183055,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "NANGANALLUR PARK",
+          "latitude": 12.980742,
+          "longitude": 80.188236,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "33",
+      "route_name": "DLF APTS",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Rajesh Kumar",
+      "driver_phone": "+91-9840114920",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444032840",
+      "stops": [
+        {
+          "name": "DLF APTS",
+          "latitude": 13.078236,
+          "longitude": 80.245431,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "BOLLINENI HILLS",
+          "latitude": 12.885253,
+          "longitude": 80.203653,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "SITHALAPAKKAM KOOT ROAD",
+          "latitude": 12.897573,
+          "longitude": 80.181907,
+          "timing": "7:25 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "42",
+      "route_name": "THILLAI GANGA NAGAR SUBWAY",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Suresh Babu",
+      "driver_phone": "+91-9840115043",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444033161",
+      "stops": [
+        {
+          "name": "THILLAI GANGA NAGAR SUBWAY",
+          "latitude": 12.992678,
+          "longitude": 80.1934,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "VANUVAMPET CHURCH",
+          "latitude": 12.975638,
+          "longitude": 80.196636,
+          "timing": "7:00 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "18A",
+      "route_name": "PUZHAL CAMP",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Palani",
+      "driver_phone": "+91-9840115166",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444033482",
+      "stops": [
+        {
+          "name": "PUZAL CAMP",
+          "latitude": 13.158055,
+          "longitude": 80.204096,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "MADHAVARAM ROUNDTANA",
+          "latitude": 13.145236,
+          "longitude": 80.219417,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "RETTERI",
+          "latitude": 13.143994,
+          "longitude": 80.211216,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "AMBEDKAR NAGAR",
+          "latitude": 12.971234,
+          "longitude": 80.236314,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "COLLECTOR NAGAR",
+          "latitude": 13.086533,
+          "longitude": 80.18925,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "WAVIN",
+          "latitude": 13.088427,
+          "longitude": 80.171983,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "DECLATHON",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "PORUR TOLL",
+          "latitude": 13.043505,
+          "longitude": 80.149617,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "43",
+      "route_name": "PORUR LAKSHMINAGAR PHASE 1",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Murugan",
+      "driver_phone": "+91-9840115289",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444033803",
+      "stops": [
+        {
+          "name": "LAKSHMI NAGAR PHASE 1",
+          "latitude": 13.034764,
+          "longitude": 80.169349,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "KK NAGAR OLD BUS STAND",
+          "latitude": 13.041001,
+          "longitude": 80.199392,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "KEELKATTALAI",
+          "latitude": 12.955607,
+          "longitude": 80.186868,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "44",
+      "route_name": "TTK ROAD",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "V. Arumugam",
+      "driver_phone": "+91-9840115412",
+      "incharge_name": "Prof. H. Naveen",
+      "incharge_phone": "+91-9444034124",
+      "stops": [
+        {
+          "name": "TTK ROAD, CHAMIERS ROAD JUNCTION",
+          "latitude": 13.028768,
+          "longitude": 80.249806,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "ALWARPET JUNCTION",
+          "latitude": 13.033551,
+          "longitude": 80.251314,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "POTHYS TNAGAR",
+          "latitude": 13.041759,
+          "longitude": 80.234076,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "26",
+      "route_name": "ADAMBAKKAM POLICE BOOTH",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "D. Selvan",
+      "driver_phone": "+91-9840115535",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444034445",
+      "stops": [
+        {
+          "name": "ADAMBAKKAM POLICE BOOTH",
+          "latitude": 12.991441,
+          "longitude": 80.194514,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "14A",
+      "route_name": "NANGANALLUR PETROL BUNK",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "G. Mohan",
+      "driver_phone": "+91-9840115658",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444034766",
+      "stops": [
+        {
+          "name": "NANGANALLUR PETROL BUNK",
+          "latitude": 12.980742,
+          "longitude": 80.188236,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "PALLAVARAM MUNICIPALITY",
+          "latitude": 12.967507,
+          "longitude": 80.149096,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "PALLAVARAM",
+          "latitude": 12.967507,
+          "longitude": 80.149096,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "PALLAVARAM PETROL BUNK",
+          "latitude": 12.967507,
+          "longitude": 80.149096,
+          "timing": "7:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "2A",
+      "route_name": "KOVUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Venkatesh",
+      "driver_phone": "+91-9840115781",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444035087",
+      "stops": [
+        {
+          "name": "KOVUR",
+          "latitude": 13.010847,
+          "longitude": 80.117733,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "KUNDRATHUR BUS STAND",
+          "latitude": 12.996977,
+          "longitude": 80.09612,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "MADHA COLLEGE",
+          "latitude": 12.992784,
+          "longitude": 80.085922,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "4",
+      "route_name": "VELAPPANCHAVADI",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "T. Saravanan",
+      "driver_phone": "+91-9840115904",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444035408",
+      "stops": [
+        {
+          "name": "THIRUVERKADU ARCH",
+          "latitude": 13.061672,
+          "longitude": 80.138368,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "MADURAVOYAL",
+          "latitude": 13.065584,
+          "longitude": 80.160777,
+          "timing": "6:32 AM"
+        },
+        {
+          "name": "VANAGARAM BUS STAND",
+          "latitude": 13.057606,
+          "longitude": 80.154513,
+          "timing": "6:34 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "4A",
+      "route_name": "VIRUGAMBAKKAM SIGNAL",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Mani",
+      "driver_phone": "+91-9840116027",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444035729",
+      "stops": [
+        {
+          "name": "VIRUGAMBAKKAM SIGNAL",
+          "latitude": 13.053209,
+          "longitude": 80.192228,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "6A",
+      "route_name": "KALPAKKAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "P. Senthil",
+      "driver_phone": "+91-9840116150",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444036050",
+      "stops": [
+        {
+          "name": "KALPAKKAM",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "MAHABALIPURAM KOOT ROAD(POONCHERY)",
+          "latitude": 12.923028,
+          "longitude": 80.186809,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "THANDALAM",
+          "latitude": 13.000907,
+          "longitude": 80.119429,
+          "timing": "6:52 AM"
+        },
+        {
+          "name": "THIRUPORUR BUS STAND",
+          "latitude": 12.722203,
+          "longitude": 80.187579,
+          "timing": "6:58 AM"
+        },
+        {
+          "name": "KELAMBAKKAM HOUSING BOARD",
+          "latitude": 12.789667,
+          "longitude": 80.221584,
+          "timing": "7:03 AM"
+        },
+        {
+          "name": "VENGAMBAKKAM",
+          "latitude": 12.873254,
+          "longitude": 80.132941,
+          "timing": "7:18 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "7",
+      "route_name": "KANCHIPURAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "A. Ravi",
+      "driver_phone": "+91-9840116273",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444036371",
+      "stops": [
+        {
+          "name": "KANCHIPURAM (TALUK OFFICE)",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "WALAJABAD",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "ORAGADAM",
+          "latitude": 13.129026,
+          "longitude": 80.154802,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "PADAPAI",
+          "latitude": 12.886582,
+          "longitude": 80.021648,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "KARASANGAL",
+          "latitude": 12.896768,
+          "longitude": 80.045543,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "MANNIVAKKAM JUNCTION",
+          "latitude": 12.89439,
+          "longitude": 80.064033,
+          "timing": "7:13 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "7A",
+      "route_name": "CHENGALPATU",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Prakash",
+      "driver_phone": "+91-9840116396",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444036692",
+      "stops": [
+        {
+          "name": "CHENGALPATTU (GOVT. HOSPITAL)",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "S.P.KOIL",
+          "latitude": 13.192505,
+          "longitude": 80.309543,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "MARAIMALAI NAGAR",
+          "latitude": 12.793008,
+          "longitude": 80.025238,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "KOTTANKULATHUR",
+          "latitude": 12.823004,
+          "longitude": 80.044724,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "URAPAKKAM",
+          "latitude": 12.86737,
+          "longitude": 80.069857,
+          "timing": "7:25 AM"
+        },
+        {
+          "name": "KOLAPAKKAM",
+          "latitude": 13.010112,
+          "longitude": 80.149232,
+          "timing": "7:35 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "8",
+      "route_name": "NOLAMBUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "N. Chandran",
+      "driver_phone": "+91-9840116519",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444037013",
+      "stops": [
+        {
+          "name": "NOLAMBUR",
+          "latitude": 13.075397,
+          "longitude": 80.167976,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "VELAMMAL HALL",
+          "latitude": 13.080649,
+          "longitude": 80.161857,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "MOGAPPAIR 7M BUS STAND",
+          "latitude": 13.089911,
+          "longitude": 80.169845,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "MADURAVAYAL TOLL",
+          "latitude": 13.065584,
+          "longitude": 80.160777,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "8B",
+      "route_name": "MADRAS CHRISTIAN COLLEGE (MCC)",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Elumalai",
+      "driver_phone": "+91-9840116642",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444037334",
+      "stops": [
+        {
+          "name": "MCC COLLEGE",
+          "latitude": 12.921125,
+          "longitude": 80.122062,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "BHARATH UNIVERSITY",
+          "latitude": 12.908068,
+          "longitude": 80.141942,
+          "timing": "7:20 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "9",
+      "route_name": "ICF",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Sekar",
+      "driver_phone": "+91-9840116765",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444037655",
+      "stops": [
+        {
+          "name": "ICF",
+          "latitude": 13.097827,
+          "longitude": 80.207358,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "K4 POLICE STATION",
+          "latitude": 13.092634,
+          "longitude": 80.217931,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "ANNANAGAR ROUNDTANA",
+          "latitude": 13.084543,
+          "longitude": 80.217053,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "SHANTHI COLONY",
+          "latitude": 13.083639,
+          "longitude": 80.216097,
+          "timing": "6:38 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "9A",
+      "route_name": "MAHENDRA CITY",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "J. Jayakumar",
+      "driver_phone": "+91-9840116888",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444037976",
+      "stops": [
+        {
+          "name": "MAHENDRA CITY",
+          "latitude": 13.058374,
+          "longitude": 80.261173,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "POTHERY",
+          "latitude": 12.819532,
+          "longitude": 80.03912,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "GUDUVANCHERI",
+          "latitude": 12.843884,
+          "longitude": 80.059736,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "URAPAKKAM",
+          "latitude": 12.86737,
+          "longitude": 80.069857,
+          "timing": "7:25 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "10",
+      "route_name": "PORUR JUNCTION",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Dhanapal",
+      "driver_phone": "+91-9840117011",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444038297",
+      "stops": [
+        {
+          "name": "PORUR JUNCTION",
+          "latitude": 12.924622,
+          "longitude": 80.129078,
+          "timing": "6:25 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "11",
+      "route_name": "AYODHYA MANDAPAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "C. Balaji",
+      "driver_phone": "+91-9840117134",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444038618",
+      "stops": [
+        {
+          "name": "AYODHYA MANDAPAM",
+          "latitude": 13.039111,
+          "longitude": 80.220976,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "VELACHERY RAILWAY STATION",
+          "latitude": 12.967336,
+          "longitude": 80.219345,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "PALLIKARANAI",
+          "latitude": 12.934891,
+          "longitude": 80.213712,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "MEDAVAKKAM JUNCTION",
+          "latitude": 12.917289,
+          "longitude": 80.193486,
+          "timing": "7:15 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "13",
+      "route_name": "GANDHIMANDAPAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "E. Ramesh",
+      "driver_phone": "+91-9840117257",
+      "incharge_name": "Prof. H. Naveen",
+      "incharge_phone": "+91-9444038939",
+      "stops": [
+        {
+          "name": "GANDHIMANDAPAM",
+          "latitude": 13.006625,
+          "longitude": 80.23734,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "PHOENIX MALL",
+          "latitude": 12.99294,
+          "longitude": 80.217868,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "VELACHERY 100FEETROAD",
+          "latitude": 12.983314,
+          "longitude": 80.217966,
+          "timing": "6:43 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "16",
+      "route_name": "KUTCHERY ROAD",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Rajesh Kumar",
+      "driver_phone": "+91-9840117380",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444039260",
+      "stops": [
+        {
+          "name": "KUTCHERY ROAD",
+          "latitude": 13.034631,
+          "longitude": 80.272334,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "LUZ",
+          "latitude": 13.036371,
+          "longitude": 80.262446,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "MYLAPORE TANK",
+          "latitude": 13.033116,
+          "longitude": 80.268546,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "MANDAVELI BSNL OFFICE",
+          "latitude": 13.058944,
+          "longitude": 80.255349,
+          "timing": "6:30 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "17",
+      "route_name": "ADYAR AAVIN",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Suresh Babu",
+      "driver_phone": "+91-9840117503",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444039581",
+      "stops": [
+        {
+          "name": "ADYAR AAVIN",
+          "latitude": 13.007857,
+          "longitude": 80.259166,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "ADAYAR TELEPHONE EXANGE",
+          "latitude": 13.001177,
+          "longitude": 80.256496,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "THIRUVANMIYUR JAYANTHI",
+          "latitude": 12.983027,
+          "longitude": 80.2594,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PTC QUARTERS",
+          "latitude": 12.933571,
+          "longitude": 80.232895,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "NAVALUR",
+          "latitude": 12.845935,
+          "longitude": 80.226523,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "PADUR",
+          "latitude": 12.807684,
+          "longitude": 80.225811,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "18",
+      "route_name": "IRUMBULIYUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Palani",
+      "driver_phone": "+91-9840117626",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444039902",
+      "stops": [
+        {
+          "name": "IRUMBULIYUR",
+          "latitude": 12.917218,
+          "longitude": 80.10772,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "PERUNGALATHUR",
+          "latitude": 12.90487,
+          "longitude": 80.084562,
+          "timing": "7:10 AM"
+        },
+        {
+          "name": "SSM NAGAR",
+          "latitude": 12.893539,
+          "longitude": 80.118432,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "KANDIGAI",
+          "latitude": 13.124437,
+          "longitude": 80.193435,
+          "timing": "7:40 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "19A",
+      "route_name": "ALANDUR METRO",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Murugan",
+      "driver_phone": "+91-9840117749",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444040223",
+      "stops": [
+        {
+          "name": "ALANDUR METRO",
+          "latitude": 13.004218,
+          "longitude": 80.201461,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "JEYACHANDRAN TEXTILES",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "21",
+      "route_name": "CHROMPET",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "V. Arumugam",
+      "driver_phone": "+91-9840117872",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444040544",
+      "stops": [
+        {
+          "name": "CHROMPET SARAVANA STORE",
+          "latitude": 12.951572,
+          "longitude": 80.146136,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "CHROMPET - BUS STAND",
+          "latitude": 12.951558,
+          "longitude": 80.140022,
+          "timing": "7:02 AM"
+        },
+        {
+          "name": "CHROMPET - PARVATHI HOSPITAL",
+          "latitude": 12.945905,
+          "longitude": 80.136566,
+          "timing": "7:05 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "21A",
+      "route_name": "RAJENDRA PRASAD ROAD",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "D. Selvan",
+      "driver_phone": "+91-9840117995",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444040865",
+      "stops": [
+        {
+          "name": "RAJENDRA PRASAD ROAD",
+          "latitude": 13.16716,
+          "longitude": 80.263097,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "23A",
+      "route_name": "IYYAPANTHANGAL",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "G. Mohan",
+      "driver_phone": "+91-9840118118",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444041186",
+      "stops": [
+        {
+          "name": "IYYAPANTHANGAL BUS STAND",
+          "latitude": 13.037852,
+          "longitude": 80.13504,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "IYYAPANTHANGAL HYUNDAI SHOWROOM",
+          "latitude": 13.038062,
+          "longitude": 80.135355,
+          "timing": "6:47 AM"
+        },
+        {
+          "name": "KATTUPAKKAM",
+          "latitude": 13.041389,
+          "longitude": 80.126714,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "27",
+      "route_name": "RAJAKILPAKKAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Venkatesh",
+      "driver_phone": "+91-9840118241",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444041507",
+      "stops": [
+        {
+          "name": "RAJAKILPAKKAM",
+          "latitude": 12.917725,
+          "longitude": 80.155657,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "SUDHARSHAN NAGAR",
+          "latitude": 12.908286,
+          "longitude": 80.160651,
+          "timing": "7:20 AM"
+        },
+        {
+          "name": "KOZHIPANNAI",
+          "latitude": 13.084301,
+          "longitude": 80.270462,
+          "timing": "7:25 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "32",
+      "route_name": "AMMA NANA",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "T. Saravanan",
+      "driver_phone": "+91-9840118364",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444041828",
+      "stops": [
+        {
+          "name": "AMMA NANA",
+          "latitude": 13.028751,
+          "longitude": 80.249598,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "KOTTURPURAM",
+          "latitude": 13.018031,
+          "longitude": 80.241099,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "MADHYA KAILASH",
+          "latitude": 13.006526,
+          "longitude": 80.247134,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PERUNGUDI",
+          "latitude": 12.965365,
+          "longitude": 80.246106,
+          "timing": "6:47 AM"
+        },
+        {
+          "name": "THORAIPAKKAM",
+          "latitude": 12.941604,
+          "longitude": 80.23621,
+          "timing": "6:55 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "38",
+      "route_name": "POONAMALLEE BYPASS",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Mani",
+      "driver_phone": "+91-9840118487",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444042149",
+      "stops": [
+        {
+          "name": "POONAMALLEE BYPASS",
+          "latitude": 13.057041,
+          "longitude": 80.106613,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "VANAGARAM",
+          "latitude": 13.057606,
+          "longitude": 80.154513,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "39",
+      "route_name": "ANAGAPUTHUR BUS STAND",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "P. Senthil",
+      "driver_phone": "+91-9840118610",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444042470",
+      "stops": [
+        {
+          "name": "ANAGAPUTHUR BUS STAND",
+          "latitude": 12.985203,
+          "longitude": 80.123056,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "SANKAR NAGAR, PAMMAL",
+          "latitude": 12.966325,
+          "longitude": 80.125411,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "BHARATHA MATHA STREET",
+          "latitude": 12.948322,
+          "longitude": 80.150353,
+          "timing": "7:10 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "45",
+      "route_name": "LIGHT HOUSE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "A. Ravi",
+      "driver_phone": "+91-9840118733",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444042791",
+      "stops": [
+        {
+          "name": "LIGHT HOUSE",
+          "latitude": 13.039743,
+          "longitude": 80.27923,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "ADYAR DEPOT",
+          "latitude": 12.998806,
+          "longitude": 80.256169,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "MADHYAKAILASH",
+          "latitude": 13.006526,
+          "longitude": 80.247134,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "SHOLINGNALLUR",
+          "latitude": 12.900988,
+          "longitude": 80.22793,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "PADUR",
+          "latitude": 12.807684,
+          "longitude": 80.225811,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "PUDUPAKKAM",
+          "latitude": 13.059865,
+          "longitude": 80.268766,
+          "timing": "7:18 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "46",
+      "route_name": "SECRETARIAT",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Prakash",
+      "driver_phone": "+91-9840118856",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444043112",
+      "stops": [
+        {
+          "name": "SECRETARIAT",
+          "latitude": 13.079306,
+          "longitude": 80.288283,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "PATINAPAKKAM",
+          "latitude": 13.030057,
+          "longitude": 80.277081,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "THIRUVANMIYUR",
+          "latitude": 12.983027,
+          "longitude": 80.2594,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "INJAMBAKKAM",
+          "latitude": 12.919784,
+          "longitude": 80.251124,
+          "timing": "6:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "49",
+      "route_name": "MADHANANDAPURAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "N. Chandran",
+      "driver_phone": "+91-9840118979",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444043433",
+      "stops": [
+        {
+          "name": "MADHANANDAPURAM",
+          "latitude": 13.022839,
+          "longitude": 80.146319,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "BAIKADAI",
+          "latitude": 13.019852,
+          "longitude": 80.142631,
+          "timing": "6:48 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "50",
+      "route_name": "MEENAMBAKKAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Elumalai",
+      "driver_phone": "+91-9840119102",
+      "incharge_name": "Prof. H. Naveen",
+      "incharge_phone": "+91-9444043754",
+      "stops": [
+        {
+          "name": "MEENAMBAKKAM",
+          "latitude": 12.987454,
+          "longitude": 80.175349,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PALLAVARAM",
+          "latitude": 12.967507,
+          "longitude": 80.149096,
+          "timing": "6:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "51",
+      "route_name": "VARATHARAJAN THEATRE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "R. Sekar",
+      "driver_phone": "+91-9840119225",
+      "incharge_name": "Dr. S. Ramesh",
+      "incharge_phone": "+91-9444044075",
+      "stops": [
+        {
+          "name": "VARATHARAJAN THEATRE",
+          "latitude": 12.937582,
+          "longitude": 80.138852,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "CAMP ROAD",
+          "latitude": 12.906818,
+          "longitude": 80.142587,
+          "timing": "7:25 AM"
+        },
+        {
+          "name": "MAHALAKSHMI NAGAR",
+          "latitude": 12.924032,
+          "longitude": 80.144603,
+          "timing": "7:27 AM"
+        },
+        {
+          "name": "MAPPEDU",
+          "latitude": 12.888592,
+          "longitude": 80.137974,
+          "timing": "7:35 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "3A",
+      "route_name": "WAVIN",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "J. Jayakumar",
+      "driver_phone": "+91-9840119348",
+      "incharge_name": "Prof. K. Venkatesh",
+      "incharge_phone": "+91-9444044396",
+      "stops": [
+        {
+          "name": "WAVIN",
+          "latitude": 13.088652,
+          "longitude": 80.171573,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "NOLAMBUR",
+          "latitude": 13.072092,
+          "longitude": 80.167248,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PORUR TOLL PLAZA",
+          "latitude": 13.043935,
+          "longitude": 80.149547,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:30 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "6",
+      "route_name": "PURASAIWAKKAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "S. Dhanapal",
+      "driver_phone": "+91-9840119471",
+      "incharge_name": "Dr. P. Vijay",
+      "incharge_phone": "+91-9444044717",
+      "stops": [
+        {
+          "name": "PURASAIWAKKAM",
+          "latitude": 13.09061,
+          "longitude": 80.251049,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "DASAPRAKASH",
+          "latitude": 13.078719,
+          "longitude": 80.25348,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "GENGU REDDY SUB WAY",
+          "latitude": 13.076365,
+          "longitude": 80.252103,
+          "timing": "6:23 AM"
+        },
+        {
+          "name": "CHETPET",
+          "latitude": 13.070021,
+          "longitude": 80.242074,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "VALLUVAR KOTTAM",
+          "latitude": 13.053744,
+          "longitude": 80.242161,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "12",
+      "route_name": "REDHILLS",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "C. Balaji",
+      "driver_phone": "+91-9840119594",
+      "incharge_name": "Dr. A. Anand",
+      "incharge_phone": "+91-9444045038",
+      "stops": [
+        {
+          "name": "REDHILLS",
+          "latitude": 13.193093,
+          "longitude": 80.184212,
+          "timing": "6:05 AM"
+        },
+        {
+          "name": "KAVANKARAI",
+          "latitude": 13.17023,
+          "longitude": 80.199634,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "PUZAL CAMP",
+          "latitude": 13.158219,
+          "longitude": 80.203782,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "SURAPET",
+          "latitude": 13.144464,
+          "longitude": 80.188363,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "KALIKUPPAM",
+          "latitude": 13.13327,
+          "longitude": 80.173786,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "PUDHUR",
+          "latitude": 13.130754,
+          "longitude": 80.159142,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:30 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:45 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "14",
+      "route_name": "TRIPLICANE",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "E. Ramesh",
+      "driver_phone": "+91-9840119717",
+      "incharge_name": "Dr. R. Karthik",
+      "incharge_phone": "+91-9444045359",
+      "stops": [
+        {
+          "name": "TRIPLICANE",
+          "latitude": 13.058348,
+          "longitude": 80.27671,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "ROYAPETTAH",
+          "latitude": 13.046422,
+          "longitude": 80.260436,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "ALWARPET JUNCTION",
+          "latitude": 13.035045,
+          "longitude": 80.25456,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "TTK ROAD, CHAMIERS ROAD JUNCTION",
+          "latitude": 13.028642,
+          "longitude": 80.250067,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "15",
+      "route_name": "TIRUVOTTIYUR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Rajesh Kumar",
+      "driver_phone": "+91-9840119840",
+      "incharge_name": "Dr. N. Saravanan",
+      "incharge_phone": "+91-9444045680",
+      "stops": [
+        {
+          "name": "TIRUVOTTIYUR",
+          "latitude": 13.175109,
+          "longitude": 80.306091,
+          "timing": "6:00 AM"
+        },
+        {
+          "name": "N-4",
+          "latitude": 13.082122,
+          "longitude": 80.168672,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "KASIMADU SIGNAL",
+          "latitude": 13.125531,
+          "longitude": 80.294672,
+          "timing": "6:15 AM"
+        },
+        {
+          "name": "KALMANDAPAM",
+          "latitude": 10.772457,
+          "longitude": 76.672853,
+          "timing": "6:17 AM"
+        },
+        {
+          "name": "BEACH STATION",
+          "latitude": 13.094168,
+          "longitude": 80.292199,
+          "timing": "6:18 AM"
+        },
+        {
+          "name": "PARRY'S CORNOR",
+          "latitude": 13.089205,
+          "longitude": 80.290525,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "KELAMBAKKAM",
+          "latitude": 12.792334,
+          "longitude": 80.216716,
+          "timing": "7:35 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "28",
+      "route_name": "NATHAMUNI",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "Suresh Babu",
+      "driver_phone": "+91-9840119963",
+      "incharge_name": "Prof. M. Divya",
+      "incharge_phone": "+91-9444046001",
+      "stops": [
+        {
+          "name": "NATHAMUNI",
+          "latitude": 13.103493,
+          "longitude": 80.202196,
+          "timing": "6:20 AM"
+        },
+        {
+          "name": "ICF",
+          "latitude": 13.099705,
+          "longitude": 80.214474,
+          "timing": "6:25 AM"
+        },
+        {
+          "name": "GANDHI HOSPITAL",
+          "latitude": 13.094804,
+          "longitude": 80.218498,
+          "timing": "6:27 AM"
+        },
+        {
+          "name": "K4 POLICE STATION",
+          "latitude": 13.09276,
+          "longitude": 80.218402,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "18TH MAIN ROAD",
+          "latitude": 13.094741,
+          "longitude": 80.203356,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "AAVIN BOTH",
+          "latitude": 13.077139,
+          "longitude": 80.225122,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "THIRUMANGALAM",
+          "latitude": 13.0871,
+          "longitude": 80.198152,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "GOLDEN FLATS",
+          "latitude": 13.088122,
+          "longitude": 80.179176,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "NOLAMBUR BYE PASS",
+          "latitude": 13.077478,
+          "longitude": 80.161308,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:30 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "28A",
+      "route_name": "MUGAPPAIR",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "M. Palani",
+      "driver_phone": "+91-9840120086",
+      "incharge_name": "Dr. K. Sangeetha",
+      "incharge_phone": "+91-9444046322",
+      "stops": [
+        {
+          "name": "MUGAPPAIR",
+          "latitude": 13.088629,
+          "longitude": 80.170109,
+          "timing": "6:40 AM"
+        },
+        {
+          "name": "GOLDEN FLATS",
+          "latitude": 13.088301,
+          "longitude": 80.178453,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "NOLAMBUR BYE PASS",
+          "latitude": 13.080414,
+          "longitude": 80.161153,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "PORUR TOLL GATE",
+          "latitude": 13.043454,
+          "longitude": 80.149378,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:30 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "29",
+      "route_name": "KALPAKKAM",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "K. Murugan",
+      "driver_phone": "+91-9840120209",
+      "incharge_name": "Prof. T. Mohan",
+      "incharge_phone": "+91-9444046643",
+      "stops": [
+        {
+          "name": "KALPAKKAM",
+          "latitude": 12.534792,
+          "longitude": 80.163227,
+          "timing": "6:00 AM"
+        },
+        {
+          "name": "VENGAMBAKKAM",
+          "latitude": 12.548687,
+          "longitude": 80.143472,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "MAHABALIPURAM KOOT ROAD(POONCHERY)",
+          "latitude": 12.614772,
+          "longitude": 80.171842,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "PAIYANUR",
+          "latitude": 12.608284,
+          "longitude": 80.154059,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "ALATHUR",
+          "latitude": 12.699531,
+          "longitude": 80.182886,
+          "timing": "6:55 AM"
+        },
+        {
+          "name": "THANDALAM",
+          "latitude": 12.715898,
+          "longitude": 80.187842,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "THIRUPORUR BUS STAND",
+          "latitude": 12.721973,
+          "longitude": 80.187219,
+          "timing": "7:05 AM"
+        },
+        {
+          "name": "S.S.N COLLEGE",
+          "latitude": 12.751042,
+          "longitude": 80.203948,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "KELAMBAKKAM",
+          "latitude": 12.786399,
+          "longitude": 80.220317,
+          "timing": "7:30 AM"
+        },
+        {
+          "name": "MAMBAKKAM",
+          "latitude": 12.827583,
+          "longitude": 80.164961,
+          "timing": "7:40 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "30",
+      "route_name": "THIRUVALLUR BUS STAND",
+      "time_slot": "morning",
+      "bus_type": "NON AC",
+      "driver_name": "V. Arumugam",
+      "driver_phone": "+91-9840120332",
+      "incharge_name": "Dr. V. Preethi",
+      "incharge_phone": "+91-9444046964",
+      "stops": [
+        {
+          "name": "THIRUVALLUR BUS STAND",
+          "latitude": 13.040955,
+          "longitude": 80.268261,
+          "timing": "6:10 AM"
+        },
+        {
+          "name": "PUTTLUR",
+          "latitude": 13.123785,
+          "longitude": 79.938358,
+          "timing": "6:30 AM"
+        },
+        {
+          "name": "SEVAPATET",
+          "latitude": 13.120642,
+          "longitude": 79.962452,
+          "timing": "6:35 AM"
+        },
+        {
+          "name": "VEPPAMPATTU RLY.",
+          "latitude": 13.124881,
+          "longitude": 79.997105,
+          "timing": "6:45 AM"
+        },
+        {
+          "name": "THIRUNINDRAVUR",
+          "latitude": 13.12471,
+          "longitude": 80.032546,
+          "timing": "6:50 AM"
+        },
+        {
+          "name": "JAYA SCHOOL BUS STOP",
+          "latitude": 13.125089,
+          "longitude": 80.043632,
+          "timing": "7:00 AM"
+        },
+        {
+          "name": "RING ROAD JUNCTION",
+          "latitude": 13.047459,
+          "longitude": 80.080811,
+          "timing": "7:15 AM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "7:35 AM"
+        },
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "7:50 AM"
+        }
+      ]
+    },
+    {
+      "route_number": "AF1",
+      "route_name": "Afternoon Shuttle AF1",
+      "time_slot": "afternoon",
+      "bus_type": "NON AC",
+      "driver_name": "D. Selvan",
+      "driver_phone": "+91-9840120455",
+      "incharge_name": "Dr. S. Balamurugan",
+      "incharge_phone": "+91-9444047285",
+      "stops": [
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "1:45 PM"
+        },
+        {
+          "name": "VANDALUR",
+          "latitude": 12.879026,
+          "longitude": 80.080709,
+          "timing": "2:00 PM"
+        },
+        {
+          "name": "PERUNGALATHUR",
+          "latitude": 12.905615,
+          "longitude": 80.095901,
+          "timing": "2:05 PM"
+        },
+        {
+          "name": "TAMABARM",
+          "latitude": 12.936581,
+          "longitude": 80.127358,
+          "timing": "2:15 PM"
+        }
+      ]
+    },
+    {
+      "route_number": "AF2",
+      "route_name": "Afternoon Shuttle AF2",
+      "time_slot": "afternoon",
+      "bus_type": "NON AC",
+      "driver_name": "G. Mohan",
+      "driver_phone": "+91-9840120578",
+      "incharge_name": "Prof. R. Priya",
+      "incharge_phone": "+91-9444047606",
+      "stops": [
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "1:45 PM"
+        },
+        {
+          "name": "VANDALUR GATE",
+          "latitude": 12.892265,
+          "longitude": 80.085593,
+          "timing": "2:00 PM"
+        },
+        {
+          "name": "PERUNGALATHUR",
+          "latitude": 12.905615,
+          "longitude": 80.095901,
+          "timing": "2:05 PM"
+        },
+        {
+          "name": "IRUMBULIYUR",
+          "latitude": 12.905615,
+          "longitude": 80.095901,
+          "timing": "2:10 PM"
+        },
+        {
+          "name": "TAMBARAM",
+          "latitude": 12.936581,
+          "longitude": 80.127358,
+          "timing": "2:15 PM"
+        },
+        {
+          "name": "CHROMPET",
+          "latitude": 12.951459,
+          "longitude": 80.140176,
+          "timing": "2:20 PM"
+        },
+        {
+          "name": "PALLAVARAM",
+          "latitude": 12.968942,
+          "longitude": 80.149693,
+          "timing": "2:30 PM"
+        },
+        {
+          "name": "MEENAMBAKKAM",
+          "latitude": 12.986499,
+          "longitude": 80.174624,
+          "timing": "2:35 PM"
+        },
+        {
+          "name": "NANGANALLUR PETROL BUNK",
+          "latitude": 12.993936,
+          "longitude": 80.185254,
+          "timing": "2:40 PM"
+        },
+        {
+          "name": "ALANTHUR METRO",
+          "latitude": 13.003944,
+          "longitude": 80.200878,
+          "timing": "2:50 PM"
+        }
+      ]
+    },
+    {
+      "route_number": "AF3",
+      "route_name": "Afternoon Shuttle AF3",
+      "time_slot": "afternoon",
+      "bus_type": "NON AC",
+      "driver_name": "R. Venkatesh",
+      "driver_phone": "+91-9840120701",
+      "incharge_name": "Dr. E. Sasikumar",
+      "incharge_phone": "+91-9444047927",
+      "stops": [
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "1:45 PM"
+        },
+        {
+          "name": "KELAMBAKKAM",
+          "latitude": 12.789834,
+          "longitude": 80.221608,
+          "timing": "2:00 PM"
+        },
+        {
+          "name": "PADUR",
+          "latitude": 12.805331,
+          "longitude": 80.224004,
+          "timing": "2:05 PM"
+        },
+        {
+          "name": "NAVALUR",
+          "latitude": 12.844739,
+          "longitude": 80.226566,
+          "timing": "2:10 PM"
+        },
+        {
+          "name": "KUMARAN NAGAR",
+          "latitude": 12.877552,
+          "longitude": 80.226812,
+          "timing": "2:15 PM"
+        },
+        {
+          "name": "SHOLINGANALLUR",
+          "latitude": 12.898815,
+          "longitude": 80.227734,
+          "timing": "2:20 PM"
+        }
+      ]
+    },
+    {
+      "route_number": "AF4",
+      "route_name": "Afternoon Shuttle AF4",
+      "time_slot": "afternoon",
+      "bus_type": "NON AC",
+      "driver_name": "T. Saravanan",
+      "driver_phone": "+91-9840120824",
+      "incharge_name": "Dr. G. Sivakumar",
+      "incharge_phone": "+91-9444048248",
+      "stops": [
+        {
+          "name": "VIT",
+          "latitude": 12.840658,
+          "longitude": 80.153187,
+          "timing": "1:45 PM"
+        },
+        {
+          "name": "MAMBAKKAM",
+          "latitude": 12.827745,
+          "longitude": 80.165147,
+          "timing": "1:50 PM"
+        },
+        {
+          "name": "SBIOA",
+          "latitude": 12.837386,
+          "longitude": 80.169209,
+          "timing": "1:55 PM"
+        },
+        {
+          "name": "CHITALAPAKKAM KOOT ROAD",
+          "latitude": 12.897473,
+          "longitude": 80.181942,
+          "timing": "2:05 PM"
+        },
+        {
+          "name": "CHITALAPAKKAM",
+          "latitude": 12.909576,
+          "longitude": 80.191161,
+          "timing": "2:15 PM"
+        },
+        {
+          "name": "MEDAVAKKAM",
+          "latitude": 12.916443,
+          "longitude": 80.19225,
+          "timing": "2:20 PM"
+        },
+        {
+          "name": "PALLIKARANAI",
+          "latitude": 12.933762,
+          "longitude": 80.203799,
+          "timing": "2:30 PM"
+        },
+        {
+          "name": "BALAJI DENTAL COLLEGE",
+          "latitude": 12.944351,
+          "longitude": 80.208294,
+          "timing": "2:35 PM"
+        },
+        {
+          "name": "VIJAYANAGAR JUNCTION",
+          "latitude": 12.974873,
+          "longitude": 80.220373,
+          "timing": "2:45 PM"
+        }
+      ]
+    }
+  ]
+}
